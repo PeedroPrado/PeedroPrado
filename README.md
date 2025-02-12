@@ -11,7 +11,7 @@ r<h2 align="left">Olá 👋! Meu nome é Pedro.</h2>
 
 ###
 
-<h2 align="left">Tecnologias usadas</h2>
+<h2 align="center">Tecnologias usadas</h2>
 
 ###
 
@@ -29,7 +29,7 @@ r<h2 align="left">Olá 👋! Meu nome é Pedro.</h2>
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="center">Contato</h2>
 
 ###
 
