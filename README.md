@@ -42,7 +42,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://github.com/GabrielFrois/GabrielFrois/blob/main/.github/workflows/snake.yml" />
+<img src="https://raw.githubusercontent.com/GabrielFrois/GabrielFrois/output/snake.svg" alt="Snake animation" />
 
 ###
