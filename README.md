@@ -43,14 +43,14 @@
  </a>
 </div>
 
-<div><a href="https://badge.cps.sp.gov.br//view.aspx?243bc235-6b96-4b6b-99c8-cf32e7cf457a" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png"></a></div>
+<div><a href="https://badge.cps.sp.gov.br//view.aspx?243bc235-6b96-4b6b-99c8-cf32e7cf457a" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png height="40""></a></div>
 
 ###
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc2c2h3dnJ3cnkwZWpxbDhvODZ3ZmwxYm1iYWkxOGY2aG14ejM0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UspNUUlFr36n9o9dcY/giphy.gif"  />
 ###
 
 <br clear="both">
 
 ###
 
-<img align="right" height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc2c2h3dnJ3cnkwZWpxbDhvODZ3ZmwxYm1iYWkxOGY2aG14ejM0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UspNUUlFr36n9o9dcY/giphy.gif"  />
