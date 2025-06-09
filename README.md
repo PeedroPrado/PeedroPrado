@@ -43,7 +43,6 @@
  </a>
 </div>
 
-<div><a href="https://badge.cps.sp.gov.br//view.aspx?243bc235-6b96-4b6b-99c8-cf32e7cf457a" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png height="40""></a></div>
 
 ###
 
