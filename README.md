@@ -44,12 +44,12 @@ I have 29 years old, I'm a history teacher but now i'm stunding Multiplatform So
   </a>
   <a href="https://www.instagram.com/oi.php/" target="_blank">
  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="80" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
  </a>
 </div>
 
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyaHBiYmJocGd4cG5rYnEwN2tqYjY5N3BhYXk0OWp0eGhkYW5qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nt6wf8jW00H8fuuVjc/giphy.gif"  />
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyaHBiYmJocGd4cG5rYnEwN2tqYjY5N3BhYXk0OWp0eGhkYW5qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nt6wf8jW00H8fuuVjc/giphy.gif" />
 
 
 <br clear="both">
