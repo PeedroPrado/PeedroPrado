@@ -1,10 +1,11 @@
 <h2 align="left">Olá 👋! Meu nome é Pedro.</h2>
-Tenho 29 anos, sou professor de história e agora seguindo um novo sonho estou estudando Desenvolvimento de Software Multiplataformas na instituição do Centro de Paula Souza (FATEC) de Jacareí. Estou no 3 semestre e estou desenvolvendo as habilidades de desenvolvedor Full-stack.
+Tenho 30 anos,Eu sou do Brasil, professor de história e agora seguindo um novo sonho estou estudando Desenvolvimento de Software Multiplataformas na instituição do Centro de Paula Souza (FATEC) de Jacareí. Estou no 3 semestre e estou desenvolvendo as habilidades de desenvolvedor Full-stack. Pretendo fazer a migração de carreira, sou uma pessoa comunicativa e um entusiasta de tecnologia tanto a parte de hardware quanto os software. Gosto de olhar o mundo com esse entusiasmo que vai desde as tecnologias da computação até as questões mais filosóficas-materiais. 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
-<h2 align="left">Hi 👋! My name is Pedro.</h2>
-I have 29 years old, I'm a history teacher but now i'm stunding Multiplatform Software Development at the Paula Souza Center (FATEC) institution in Jacareí. I'm in my 3nd semester and I'm developing my Full-stack skills.  
+<h2 align="left">Hi 👋!Hello, my name is Pedro.</h2>
+I am 30 years old. I'm from Brazil. I have a background as a history teacher, but I'm currently pursuing a new dream by studying Multilplatform Software Development at the Paula Souza Center (FATEC) in Jacareí.
 
+I'm in my third semester and developing my skills as a full-stack developer. I am focused on making a career transition. I consider myself a good communicator and a technology enthusiast, interested in both hardware and software. I enjoy looking at the world with this sense of enthusiasm, from computational technologies to deeper philosophical and material questions.
 ###
 
 <br clear="both">
