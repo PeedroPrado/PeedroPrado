@@ -14,12 +14,6 @@ I have 29 years old, I'm a history teacher but now i'm stunding Multiplatform So
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeedroPrado&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeedroPrado/PeedroPrado/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PeedroPrado/PeedroPrado/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PeedroPrado/PeedroPrado/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <h2 align="center">Tecnologias usadas</h2>
