@@ -54,7 +54,7 @@ I am 30 years old. I'm from Brazil. I have a background as a history teacher, bu
   <a href="https://www.facebook.com/profile.php?id=100014443869835&sk=about" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  
+  <br>
 </div>
 <div align ="center">
 <img align="center" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyaHBiYmJocGd4cG5rYnEwN2tqYjY5N3BhYXk0OWp0eGhkYW5qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nt6wf8jW00H8fuuVjc/giphy.gif" />
