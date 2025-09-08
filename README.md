@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 <h2 align="left">Hi 👋!Hello, my name is Pedro.</h2>
 I am 30 years old. I'm from Brazil. I have a background as a history teacher, but I'm currently pursuing a new dream by studying Multilplatform Software Development at the Paula Souza Center (FATEC) in Jacareí. I'm in my third semester and developing my skills as a full-stack developer. I am focused on making a career transition. I consider myself a good communicator and a technology enthusiast, interested in both hardware and software. I enjoy looking at the world with this sense of enthusiasm, from computational technologies to deeper philosophical and material questions.
-###
+
 
 <br clear="both">
 
