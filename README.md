@@ -8,7 +8,7 @@ I am 30 years old. I'm from Brazil. I have a background as a history teacher, bu
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeedroPrado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeedroPrado&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -54,10 +54,11 @@ I am 30 years old. I'm from Brazil. I have a background as a history teacher, bu
   <a href="https://www.facebook.com/profile.php?id=100014443869835&sk=about" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  
 </div>
-
-<img align="left" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyaHBiYmJocGd4cG5rYnEwN2tqYjY5N3BhYXk0OWp0eGhkYW5qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nt6wf8jW00H8fuuVjc/giphy.gif" />
-
+<div align ="center>
+<img align="center" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyaHBiYmJocGd4cG5rYnEwN2tqYjY5N3BhYXk0OWp0eGhkYW5qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nt6wf8jW00H8fuuVjc/giphy.gif" />
+</div>
 
 <br clear="both">
 
