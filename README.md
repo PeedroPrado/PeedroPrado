@@ -1,5 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Pedro.</h2>
 Tenho 30 anos,Eu sou do Brasil, professor de história e agora seguindo um novo sonho estou estudando Desenvolvimento de Software Multiplataformas na instituição do Centro de Paula Souza (FATEC) de Jacareí. Estou no 3 semestre e estou desenvolvendo as habilidades de desenvolvedor Full-stack. Pretendo fazer a migração de carreira, sou uma pessoa comunicativa e um entusiasta de tecnologia tanto a parte de hardware quanto os software. Gosto de olhar o mundo com esse entusiasmo que vai desde as tecnologias da computação até as questões mais filosóficas-materiais. 
+
 _____________________________________________________________________________________________________________________________________________________
 
 <h2 align="left">Hi 👋!Hello, my name is Pedro.</h2>
